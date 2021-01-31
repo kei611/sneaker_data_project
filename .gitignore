@@ -1,0 +1,7 @@
+*.ipynb_checkpoints
+
+/data_preprocessing/img_features128.npy
+
+/model_building/1_HyperParametor_Tuning.ipynb
+
+/objects

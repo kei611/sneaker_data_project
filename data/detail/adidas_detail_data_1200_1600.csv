@@ -1,0 +1,401 @@
+id,brand,product_name,condition,last_sale,last_sale_size,lowest_ask,highest_bid,since_last_sale_dollar,since_last_sale_percent,colorway,retail_price,release_date,high_52_week,low_52_week,low_12_month_trade,high_12_month_trade,volatility,num_sales_12_month,price_premium_12_month,avg_sale_price_12_month
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda c.p. company green,New,¥20400,10,¥10500,¥13500,+7900,62,Night Cargo/Base Green/Trace Cargo,160,08/24/2018,20400,7200,17300,23400,14.9,44,20.8,"12,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas aw bball soccer alexander wang core black,New,¥15900,13.5,¥22800,¥15800,+6000,60,Core Black/Cloud White/Core Black,250,04/21/2018,31700,10000,10200,21600,35.8,42,-40.0,"19,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kaiwa black white black heel,New,¥22400,10,¥40700,¥22100,-2900,-12,Core Black/Core Black/Footwear White,400,01/01/2018,36900,15900,19900,24900,11.1,41,-47.0,"24,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 core black solar red,New,¥10000,11,¥6400,¥3100,-5400,-36,Core Black/Core Black/Solar Red,100,10/18/2018,15400,2700,6300,13600,37.1,40,-6.0,"4,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas aw turnout bball alexander wang cloud white core black,New,¥20900,10,¥29200,¥17300,+3700,21,Cloud White/Cloud White/Core Black,250,11/14/2018,40300,9000,18500,23300,11.7,39,-20.8,"17,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex fast gtx-surround white mountaineering,New,¥16900,9.5,¥14000,¥9400,+3700,28,Carbon/Core Black/Cloud White,250,12/15/2018,22800,8400,13800,20100,19.0,38,-36.0,"13,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs replicant ozweego raf simons usa (with socks),New,¥23800,8,¥21100,¥16800,-7900,-25,Clear Brown/Clear Brown/Cloud White,550,06/28/2018,31900,14300,18000,29600,24.7,37,-59.1,"20,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba black white gum,New,¥4900,7.5,¥5100,¥6300,+200,3,Core Black/Cloud White/Gum,80,06/01/2018,9000,4300,3500,6400,28.6,36,-42.1,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas marathon x 5923 never made pack triple white,New,¥5600,11,¥6100,¥2700,+1300,30,White/White/White,150,11/19/2018,9400,3500,4400,6900,23.1,36,-64.6,"5,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw real purple core black,New,¥4800,9.5,¥5300,¥3900,+1100,30,Real Purple/Core Black/Cloud White,150,11/01/2018,8400,3200,3700,6000,22.4,36,-69.8,"5,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas aw skate super alexander wang white black,New,¥27500,9.5,¥27500,¥31600,-1500,-5,White/Core Black/Tech Silver,220,11/14/2018,31600,12700,21700,33200,21.3,36,18.2,"20,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas replicant ozweego raf simons clear brown yellow,New,¥24800,11,¥20000,¥17900,-1500,-6,Clear Brown/Yellow/Yellow,400,03/22/2018,31700,11600,20600,29000,16.9,34,-41.3,"21,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas prophere carbon pyrite,New,¥8000,9,--,¥10000,+100,1,Carbon/Carbon/Pyrite,120,06/12/2018,8000,4300,7100,8800,10.3,33,-37.5,"6,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kusari triple black,New,¥15900,11.5,¥27800,¥26300,-2600,-14,Black/Black/Black,400,07/20/2018,34600,15900,12400,19300,22.2,34,-62.5,"23,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rascal white tint,New,¥5800,10.5,¥4300,¥4200,+1600,38,White Tint/Off-White/Scarlet,--,06/20/2018,9500,2700,4400,7300,25.1,33,--,"4,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas futurepacer grey one,New,¥7300,12,¥6900,¥5700,+500,6,Grey One/Footwear White/Core Black,180,07/14/2018,18500,4300,6400,8300,13.6,31,-61.7,"7,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov white gum,New,¥12700,12,¥11100,¥9100,+4300,50,Footwear White/Footwear White/Gum,140,07/08/2018,13800,4200,10500,14900,17.2,30,-14.3,"8,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov triple white,New,¥10100,9,¥9000,¥9400,-900,-9,Cloud White/Crystal White/Crystal White,120,10/04/2018,11600,4400,8200,12000,18.9,29,-20.8,"6,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw lvl 1 black purple,New,¥7100,8.5,¥8800,¥6800,+800,12,Black/Purple/White,200,02/16/2018,9500,4800,6300,8000,11.2,27,-66.5,"6,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 3mc beavis and butthead,New,¥5300,11.5,¥5500,¥3200,+200,2,Core Black/Footwear White/Scarlet,--,11/03/2018,10600,2700,3400,7200,36.5,26,--,"4,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s slam jam,New,¥14500,8.5,¥4600,¥8400,+9700,204,Footwear White/Footwear White/Footwear White,150,11/17/2018,14500,4200,11600,17300,19.9,25,-8.7,"6,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov alphatype,New,¥6400,9,¥6900,¥7300,-1500,-20,Core Black/Core Black/Flash Red,120,11/22/2018,18000,6400,4200,8600,35.3,23,-50.0,"10,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 alphatype,New,¥5700,9.5,¥9400,¥4900,-2200,-28,Core Black/Core Black/Bluebird,130,11/22/2018,10600,5300,4900,6600,14.1,24,-58.5,"6,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 core black reflective silver,New,¥8400,13,¥13500,¥6300,-400,-5,Core Black/Core Black/Reflective Silver,100,12/01/2018,159500,5300,6900,9900,17.8,24,-21.0,"15,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 ice blue,New,¥9500,9,¥25200,¥11800,-14000,-60,Ice Blue/Silver/Black,125,04/18/2014,23600,9500,5600,13400,41.3,23,-28.0,"15,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 500 rm grey five clear orange,New,¥7400,9,¥8000,¥4200,-600,-8,Grey Five/Cloud White/Clear Orange,140,07/07/2018,15100,4300,4400,10500,41.5,23,-50.0,"9,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas prophere triple black,New,¥4300,8,¥8500,¥7400,-5200,-56,Core Black/Core Black/Solar Red,120,03/01/2018,16600,4300,1200,7300,73.0,21,-66.7,"8,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas garwen spzl union spray grey,New,¥11100,10.5,¥10600,¥6700,-1700,-14,Spray/Spray/Bluebird,140,10/26/2018,18400,5300,8200,14100,27.0,20,-25.0,"10,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda burgundy gum,New,¥12200,11,¥15500,¥9400,+1600,15,Collegiate Burgundy/Collegiate Burgundy/Gum,150,04/28/2018,21100,4700,8800,15500,27.6,18,-23.3,"12,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 adv nice kicks,New,¥6700,9.5,¥5200,¥4400,-700,-10,Core White/Off White/Energy Aqua,220,02/23/2018,7400,3200,5500,7800,16.8,19,-71.4,"4,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt black white,New,¥8000,12.5,¥7300,¥4400,-1500,-16,Core Black/Core Black/Running White,100,03/22/2018,15300,2700,6400,9500,19.3,19,-25.0,"8,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas x plr white black,New,¥10100,12,¥7400,--,+5400,116,Running White/Core Black/Cloud White,85,01/01/2018,10100,4700,8500,11600,16.3,18,11.8,"6,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex two gtx white mountaineering,New,¥19000,9.5,¥12700,¥13700,+200,1,Core Black/Cloud White/Core Black,200,12/15/2018,19000,6500,15000,23000,21.2,19,-10.0,"11,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,"adidas metro attitude big sean ""hawaii""",New,¥19000,9,¥16800,¥6300,-500,-3,--,165,09/13/2014,32300,9000,13600,24400,28.4,18,9.1,"17,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas country x kamanda never made pack triple white,New,¥6100,9,¥7400,¥9400,-7800,-57,White/White/White,150,11/19/2018,25600,4300,800,11300,88.6,17,-62.0,"8,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov aero green,New,¥6400,9,¥23200,--,-1000,-14,Aero Green/Aero Green/Light Brown,120,11/14/2018,11600,3200,4800,8000,24.6,18,-50.0,"6,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda x country never made pack,New,¥10600,12,¥10900,¥11500,+200,1,White/Green/Gum,150,10/24/2018,13900,4300,8400,12800,21.5,18,-33.3,"9,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas boston super x r1 never made pack triple white,New,¥4300,9.5,¥6300,¥3600,-2600,-39,White/White/White,140,11/19/2018,10600,4300,2300,6200,45.8,17,-71.8,"6,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,"adidas tubular doom ronnie fieg ""just us""",New,¥12800,10.5,¥15900,¥13100,-2800,-18,--,165,01/23/2016,32600,9000,7000,18600,45.6,16,-26.7,"14,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung-1 triple purple,New,¥13200,10.5,¥12300,¥5500,+2800,26,University Purple/University Purple/University Purple,120,10/13/2018,16900,6900,10100,16400,24.2,17,4.2,"10,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas lacombe cloud white core black,New,¥8500,10,¥8500,¥6400,+600,7,Cloud White/Core Black/Chalk White,110,01/01/2018,21000,6400,6200,10800,27.1,17,-27.3,"9,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 adv sock footwear white real purple,New,¥7400,10,¥11200,¥7800,-5200,-42,Footwear White/Footwear White/Real Purple,140,02/15/2018,12700,5300,5200,9600,30.7,17,-50.0,"9,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 8 adv nice kicks,New,¥10600,11,¥12200,¥12600,+1900,22,Footwear White/Off White/Energy Aqua,250,02/23/2018,13100,4700,8600,12600,19.4,16,-60.0,"9,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex skychaser livestock,New,¥11300,7.5,¥8400,¥7300,+3800,49,Stone/Core Black/Grey Five,200,09/29/2018,14300,7500,9300,13200,17.4,16,-46.7,"10,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular instinct mastermind,New,¥35000,12.5,¥17600,¥17900,+17000,94,--,220,09/20/2016,35000,9700,28900,41200,17.4,16,50.9,"18,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kusari white black,New,¥13800,11.5,¥16300,¥10800,-2100,-13,White/Black/Black,390,03/01/2018,23800,12200,10300,17200,25.7,15,-66.7,"18,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tennis hu pharrell college navy,New,¥15900,11,--,¥18900,+8600,117,Collegiate Navy/Collegiate Navy/Off White,110,01/01/2018,15900,6900,13200,18500,16.7,16,36.4,"9,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 traffic warden,New,¥7500,9.5,¥11100,--,+400,4,Core Black/Solar Yellow/Footwear White,130,11/22/2018,9500,3900,6300,8800,16.7,15,-45.4,"6,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 mint,New,¥5800,13,¥6000,--,-500,-8,Vapour Green/Vapour Green/Grey,100,10/18/2018,8500,2800,4300,7400,28.0,16,-45.0,"5,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas garwen spzl union dune,New,¥10000,12,¥10600,¥6100,+2600,34,Dune/Dune/Gum,140,10/26/2018,14300,6300,7500,12400,24.1,14,-32.9,"8,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tmac 1 mount zion,New,¥15900,9,¥19700,¥13100,-4100,-21,Light Maroon/Dark Onix/Light Maroon,110,10/23/2012,20000,5800,10900,20800,31.6,14,36.4,"12,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov triple black,New,¥6900,6,¥6900,¥14700,+600,8,Core Black/Core Black/Core Black,120,11/14/2018,12700,5800,4800,9000,31.2,14,-45.8,"8,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rising star x r1 never made pack triple white,New,¥8600,9,¥5300,¥4600,+2800,47,White/White/White,175,11/19/2018,11700,4500,6600,10600,23.5,13,-53.9,"6,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 core black timber,New,¥7200,13,¥6400,¥4000,0,0,Core Black/Night Grey/Timber,100,11/01/2018,10500,6200,5800,8600,19.7,12,-32.0,"7,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kusari black,New,¥26400,12,¥20400,¥13800,0,0,Core Black/Core White/Core White,390,01/20/2018,26400,9500,20900,31900,20.6,13,-35.9,"19,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s kazuki clot,New,¥28100,9,¥28600,¥32700,+7100,34,--,150,06/30/2012,28100,8500,22500,33700,20.1,13,77.3,"20,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs replicant ozweego raf simons scarlet dust,New,¥36900,10.5,¥17300,¥10400,+19800,115,Scarlet/Dust Rust/Scarlet,550,03/15/2018,36900,8500,28700,45200,22.3,13,-36.4,"16,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas spezial glenbuck mist jade,New,¥7200,12,¥5300,--,+3000,69,Mist Jade/Icey Pink/Black,130,03/09/2018,8500,4300,6000,8400,16.9,13,-47.9,"6,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 grey solar orange,New,¥5300,9,¥5800,¥5200,-1300,-21,Grey Three/Grey Four/Solar Orange,120,08/23/2018,10600,4300,3400,7200,36.4,13,-58.3,"6,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rivalry hi eric emanuel,New,¥12100,9.5,¥8000,¥13700,+1500,14,Crystal White/Night Red/Real Pink/Bold Gold,190,12/07/2018,23900,8400,7700,16400,36.1,12,-40.0,"11,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,"adidas top ten 2000 kobe ""vino pack""",New,¥15900,15,¥79100,¥27900,+3700,30,--,140,05/05/2016,36900,7400,7500,24200,52.7,12,7.1,"18,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda bodega,New,¥17200,10,¥15900,¥15800,+3500,25,Core Black/Core Black/Khaki,--,09/01/2018,19900,8000,13900,20600,19.4,13,--,"12,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas falcon workshop,New,¥11100,9,¥7900,¥4700,-3300,-23,White/Black/Blue,155,08/08/2018,17400,7400,8600,13600,22.6,12,-32.3,"12,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt core black ash blue,New,¥5800,13,¥15800,¥12600,-4700,-45,Core Black/Core Black/Ash Blue,100,07/05/2018,10600,4800,4500,7200,23.1,12,-44.9,"7,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s kasina,New,¥18000,10,¥12300,¥15800,+10800,150,--,150,08/20/2016,33800,7200,9700,26200,46.0,11,13.3,"17,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 steel,New,¥6700,10.5,¥10600,--,+900,15,Steel/Steel/Core Black,100,10/18/2018,10100,3900,5000,8400,24.8,11,-37.0,"5,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt muted neons grey four,New,¥10600,9.5,¥13700,¥6800,-3900,-27,Grey Three/Grey Four/Footwear White,100,04/27/2018,14500,7300,8300,12900,21.6,10,--,"9,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom primeknit grey,New,¥13600,8.5,¥9400,--,+4600,50,--,165,01/23/2016,13600,2700,10100,17200,26.0,10,-21.8,"7,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba c.p. company tobacco blue,New,¥23400,10.5,¥26400,¥27400,-4800,-17,Dark Blue/Night Sky/Dark Purple,130,08/24/2018,28300,10600,16700,30200,28.7,10,70.9,"19,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom triple black,New,¥20900,10.5,¥12800,--,+11800,129,--,165,04/16/2016,21400,8100,15800,26100,24.9,10,20.0,"14,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw 2 core black real purple,New,¥6400,10.5,¥9000,¥5000,+2200,50,Core Black/Real Purple/Cloud White,140,08/15/2018,9300,4300,4700,8100,26.4,10,-57.1,"6,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle collegiate royal,New,¥11400,8.5,¥8400,¥5200,+3000,35,Collegiate Royal/Cloud White/Cloud White,110,11/01/2018,11400,4600,9700,13000,14.6,10,-2.1,"7,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular nova primeknit black pink,New,¥15900,10,¥14700,¥12600,+2700,20,--,170,04/21/2016,23800,3300,10600,21100,33.4,9,-11.8,"12,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kaiwa black white,New,¥32900,11.5,¥40800,¥37900,+7600,30,Black/White,400,05/15/2018,32900,22200,29500,36400,10.6,9,-21.9,"25,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pro model linen khaki,New,¥5300,10,¥9000,¥6300,-1500,-23,Linen Khaki/Footwear White/Gold Metallic,90,01/01/2016,9500,5300,4100,6600,24.0,9,-44.4,"7,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex white mountaineering (white),New,¥10600,7.5,¥6400,¥9900,-5000,-32,Footwear White/Collegiate Navy/Red,150,05/18/2018,16000,6900,7300,13900,30.9,9,-33.3,"10,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda raw desert,New,¥11600,13,¥10100,¥8900,+1600,16,Raw Desert/Raw Desert/Crystal White,150,08/28/2018,11600,4300,9400,13900,18.7,9,-26.7,"9,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 core black clear orange,New,¥8200,8,¥12700,¥8600,+1800,28,Core Black/Core Black/Clear Orange,120,08/16/2018,8500,4300,6800,9500,16.9,9,-35.8,"6,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,y3 qasa high vista grey,New,¥31200,9.5,¥32000,¥24200,+12000,62,--,400,08/09/2016,33800,12200,23700,38800,24.4,9,-26.0,"23,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt pride pack (2018),New,¥8500,13,¥11600,¥12600,-6800,-45,Cream White/Ash Grey/Core Black,100,06/01/2018,15300,8500,6100,10900,28.7,9,-20.0,"11,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas temper run saint alfred,New,¥5800,9.5,¥8000,¥5200,+1000,18,Green/Brown/Brown,--,10/27/2018,23300,5000,600,11200,91.0,9,--,"8,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tennis hu pharrell linen,New,¥10600,8,--,¥10500,0,0,Linen/Linen/Chalk/White,110,01/20/2018,12300,5300,8300,12900,22.0,8,-9.1,"9,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt hi res blue,New,¥11600,9,¥8000,¥5700,0,0,Hi-Res Blue/Hi-Res Blue/Core Black,100,07/05/2018,11600,5100,9200,14100,20.9,8,10.0,"8,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas spirit low raf simons red,New,¥12200,10.5,¥8700,¥5100,+2200,21,Scarlet/Scarlet/Surf Petrol,240,01/01/2018,12200,4300,9900,14500,19.0,8,-52.1,"9,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 420 quotole,New,¥24100,9.5,¥43300,¥31600,-17900,-43,--,129,11/15/2014,42100,24100,16300,31900,32.6,8,76.6,"32,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom sock mystery red,New,¥5300,12,¥5200,¥7900,-2100,-29,Mystery Red/Collegiate Burgundy/Crystal White,120,01/01/2016,8400,4400,3700,6900,29.1,8,-58.3,"6,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kobe two graphite,New,¥49400,8.5,¥40800,¥48200,+26200,113,Graphite/Silver-Tint/Supplier Colour,125,01/01/2002,52700,23200,38300,60400,22.5,8,274.4,"38,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas forest grove collegiate navy,New,¥6900,9.5,¥6900,¥3600,+500,7,Collegiate Navy/Aero Blue/Core Black,80,07/01/2018,6900,4800,6200,7600,10.2,8,-18.8,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas f/1.3 mesa,New,¥10600,10.5,--,¥7300,+5300,100,Mesa/Red Gold/Runing White,130,11/01/2018,13200,5300,8300,12900,22.5,7,-23.1,"9,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas continental 80 grey,New,¥5500,10.5,¥4200,¥4200,+1400,33,Grey/Hi-Res Aqua/Scarlet,80,11/01/2018,5800,4200,5000,6100,10.0,8,-35.0,"5,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ss2g workshop,New,¥5300,11.5,¥9500,¥6700,-8400,-62,White/Black/Blue,160,08/08/2018,13800,3700,1200,9400,78.0,8,-68.8,"8,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 adizero runner core black,New,¥14300,9,¥21800,¥8400,+1100,8,Core Black/Core Black/Footwear White,300,01/01/2018,24600,13200,10700,17800,25.0,7,-55.1,"16,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 runner 4d ii black,New,¥63300,10,¥40900,¥52600,0,0,Black/Black/Black,600,09/07/2018,73800,58000,57600,69000,9.0,7,--,"65,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kaiwa lush red,New,¥24300,9.5,¥23400,¥17600,+700,3,Lush Red/Lush Red/Rust Red,400,01/01/2018,27300,11300,18600,30000,23.5,7,-42.5,"18,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 star wars darth vader,New,¥22700,9.5,¥36900,¥13000,+7300,47,Black 1/Black 1/Black 1,150,01/01/2010,31700,11600,15400,30000,32.1,7,43.2,"21,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kaiwa white,New,¥40100,9,¥40100,¥27100,+10600,36,Footwear White/Black/Core White,400,01/01/2018,40100,14000,32500,47700,19.0,7,-5.0,"26,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 stormtrooper,New,¥36900,11,¥49100,¥42100,0,0,Running White/Running White/Black 1,125,02/07/2014,52700,22000,26900,47000,27.2,7,180.0,"35,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas prophere blue night,New,¥5800,13,¥8500,¥5500,-3100,-35,Blue Night/Blue Night/Hi-Res Orange,120,06/12/2018,9000,4800,4300,7400,27.4,7,-54.2,"6,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw 2 bristol studio sharpshooter,New,¥10200,8.5,¥10400,¥7500,+1800,21,Cloud White/Running White/Collegiate Navy,180,11/17/2018,17200,7400,6300,14100,38.3,6,-46.4,"12,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom sock maroon,New,¥6400,10,¥6400,¥5200,0,0,Core Black/Maroon/Chalk White,140,01/01/2018,6400,4800,5800,6900,9.1,7,-57.1,"6,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs replicant ozweego raf simons black cream,New,¥24700,8.5,¥30500,¥16700,-1600,-6,Core Black/Cream White/Footwear White,550,03/15/2018,36500,15900,18200,31200,26.5,7,-57.5,"22,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 bashyo harden floral,New,¥23200,10,¥52700,¥11100,-3100,-12,Core Black/Core Black/Core White,400,04/13/2018,26400,20000,21100,25300,9.2,7,-45.0,"24,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ultra tech shock pink,New,¥8400,10.5,¥8000,¥5700,+1500,22,Crystal White/Shock Pink/Core Black,120,06/01/2018,11600,3500,5700,11000,31.3,7,-34.2,"7,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas la trainer og made in germany,New,¥10100,8.5,--,¥8500,-6800,-41,--,250,08/06/2016,30100,7500,2700,17400,74.0,7,-62.0,"13,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s chinese new year (2018),New,¥10600,11,¥5800,--,+3500,49,--,110,01/13/2018,11000,7100,9200,12000,13.2,6,-9.1,"9,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas prophere onix,New,¥4800,10.5,¥10600,¥10500,-5700,-55,Onix/Onix/Bold Onix,120,03/08/2018,11000,4800,2700,6900,43.7,6,-62.5,"8,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 3mc vulc cloud white,New,¥4800,8.5,¥4300,¥2900,-12100,-72,Cloud White/Cloud White/Gold Metallic,65,07/05/2018,16900,4800,600,9000,89.8,6,-30.8,"7,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw 2 white black,New,¥10600,8,¥10600,¥4700,-2100,-17,Footwear White/Core Black/Real Purple,140,10/01/2018,12700,4300,7600,13500,28.2,6,-28.6,"7,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba classic og white scarlet granite,New,¥10200,8.5,¥20600,¥10500,+3000,42,Chalk White / Scarlet / Clear Granite,110,05/19/2018,16100,7200,7400,12900,27.6,6,-12.7,"10,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda c.p. company brown,New,¥26300,8,¥22700,¥20300,+7600,41,Brown/Brown/Gum,160,08/24/2018,26300,12700,21100,31500,19.8,6,55.6,"17,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas t-mac 5 black red,New,¥27800,9.5,¥40000,¥35300,-14400,-34,Core Black/Power Red/Core Black,--,01/06/2016,42200,16900,19900,35700,28.4,6,--,"30,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov cloud white aero green,New,¥10600,14,¥6300,¥7300,+1600,18,Cloud White/Aero Green/Crystal White,120,11/14/2018,10600,6300,8600,12600,18.7,6,-16.7,"8,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,y3 qasa high lux triple black,New,¥31700,10,¥22300,¥23700,+5300,20,--,575,07/28/2016,31700,20100,28100,35300,11.5,6,-47.8,"25,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas agravic kith eea (exploration),New,¥17400,7.5,¥31600,¥21000,-3600,-17,Multi-Color,175,03/30/2018,26400,11600,13000,21900,25.7,6,-5.7,"18,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas detroit runner raf simons core black,New,¥20100,10,¥36900,¥8900,-4200,-17,Core Black/Core Black/Core Black,420,08/16/2018,24300,20100,18300,21900,8.7,6,-54.8,"22,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas f/22 grey black,New,¥13800,10,--,¥8600,+3300,32,Grey/Core Black/Trace Orange,160,05/03/2018,13800,7300,11500,16100,16.3,6,-18.6,"9,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex free hiker kith navy,New,¥26400,11.5,¥34300,¥21000,+12800,94,Navy/White,250,12/26/2018,38200,13600,17500,35300,33.7,5,--,"28,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas aloha super mark gonzales white black grey,New,¥16900,9.5,¥28000,¥21000,-500,-3,Cloud White/Core Black/Light Granite,90,08/18/2018,32700,16900,10600,23200,37.2,5,77.8,"22,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas detroit runner raf simons grey maroon,New,¥18700,8,¥15500,¥9400,-4500,-20,Solid Grey/Solid Grey/Maroon,420,08/16/2018,28300,12200,13300,24100,28.6,5,-57.9,"20,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,"adidas sl loop wish ""independent currency""",New,¥15900,10.5,¥18900,¥15800,-3700,-19,--,100,07/04/2014,20600,13200,12700,19000,19.7,5,50.0,"16,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas marathon tr ash green,New,¥16400,9.5,¥14800,¥12200,+2700,20,Ash Green/Chalk White/Core Black,110,09/01/2018,16400,9500,14000,18700,14.8,5,40.5,"12,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 harigane black champagne,New,¥23800,10,¥23300,¥11500,-1500,-6,Black/Champagne/White,400,10/23/2018,26800,12100,18500,29000,22.1,5,-43.8,"22,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js foil wings jeremy scott iridescent,New,¥34300,10,¥101200,¥28900,+2700,8,Metallic Gold/Metallic Gold/Pearl Citrine,250,01/22/2014,55300,21100,22000,46500,35.8,5,30.0,"32,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas climacool coca cola,New,¥16200,9.5,¥12700,¥3000,+1900,13,--,120,04/26/2016,16200,12300,14800,17500,8.5,5,27.5,"13,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt core black easy green,New,¥10500,11,¥8000,¥8900,-100,-1,Core Black/Easy Green/Footwear White,100,03/22/2018,10600,6400,8800,12200,16.5,4,-1.0,"9,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 yohji run black silver,New,¥17400,11,¥15900,¥13100,+4200,31,Core Black/Reflective Silver/Footwear White,220,08/17/2016,18000,10600,14400,20500,17.5,4,-25.0,"14,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas mallison spezial brown,New,¥12700,9,--,¥10500,+8500,200,Brown/Brown/Brown,110,09/21/2018,13200,4300,9100,16300,28.6,4,9.1,"10,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 98 x crazy byw black grey white,New,¥4300,8,¥7100,¥5200,0,0,Core Black/Grey/Core White,170,10/17/2018,6400,4300,3300,5200,23.6,3,-76.5,"5,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 700 boat end sahara,New,¥4200,7,¥15800,¥5200,-400,-9,--,149,11/06/2016,4600,4200,4100,4400,4.4,4,-73.7,"4,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas camton trainer palace black,New,¥30500,9,¥17200,¥5000,+8600,39,Core Black/Running White/Core Black,--,10/26/2018,30500,13900,23800,37100,22.0,4,--,"20,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom special forces,New,¥10700,9.5,¥16400,¥3600,+2200,25,--,160,03/19/2016,10700,8400,9700,11600,8.6,4,-36.9,"9,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 452 spezial clear grey haze coral,New,¥12100,11.5,¥12200,¥5100,+4100,51,Clear Grey/Haze Coral/Clear Onix,130,09/21/2018,12100,6100,9900,14200,18.0,4,-12.4,"8,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular x asw (2016),New,¥9000,9.5,¥10500,¥2600,-1500,-15,--,180,02/13/2016,13200,9000,7500,10500,16.9,4,-52.8,"10,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx500 rm hender scheme tan black,New,¥28400,10.5,¥28400,¥17200,+2100,8,Black/Natural,300,11/24/2018,36900,26400,24400,32400,14.1,4,-10.3,"30,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas continental 80 python black,New,¥7600,11,¥22300,--,-100,-1,Core Black/Carbon/Grey Five,120,10/01/2018,7700,6300,7000,8300,8.6,4,-40.0,"7,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba recon lt white gum,New,¥11000,8.5,¥10600,--,-6900,-39,Crystal White/Core Black/Gum,170,06/25/2018,18000,8000,7100,14900,35.7,4,-38.8,"11,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw sesame,New,¥9000,9.5,¥8000,¥5200,+3200,55,Sesame/Light Granite/Chalk Coral,150,11/01/2018,9000,3900,7100,10900,21.1,4,-43.3,"6,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas camton trainer palace white,New,¥17700,10.5,¥17400,¥10700,+2600,17,Running White/Core Black/Running White,--,10/26/2018,17700,13800,16000,19300,9.5,4,--,"16,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular nova primeknit olive cargo,New,¥6900,10,¥6400,¥5000,0,0,--,140,04/20/2016,7400,6400,6500,7300,5.4,4,-53.6,"6,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js bear jeremy scott teddy bear (brown),New,¥22200,13.5,¥210800,¥42100,-13700,-38,Light Sand/Desert Sand/Sand Storm,200,07/01/2008,52700,22200,11600,32700,47.5,5,5.0,"34,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 blue red,New,¥9400,13,¥7400,¥3100,-3000,-25,Blue/Blue/Red,100,11/01/2018,12500,8400,7800,11000,17.4,4,-11.0,"9,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 350 oyster holdings ash pearl,New,¥5800,8,¥6300,¥4700,-400,-7,Ash Pearl/Chalk White/Gold Metallic,130,03/29/2018,6300,5800,5700,6000,2.7,4,-57.7,"6,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw x wall way,New,¥14800,9.5,¥18000,¥9000,0,0,Core Black/Cloud White/Orange,200,12/01/2018,14800,10600,13000,16600,12.4,4,-30.0,"13,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas f/22 trace orange core black,New,¥5300,8,¥8700,¥3600,-5200,-50,Trace Orange/Core Black/Crystal White,160,05/03/2018,10600,5300,3100,7500,41.2,4,-68.8,"6,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar vulc adv pale pink,New,¥4800,6,--,¥2700,-1500,-25,Hazel Coral/Pale Pink/Cloud White,--,01/01/2016,6400,3200,3500,6100,27.2,3,--,"4,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular nova primeknit triple white,New,¥6100,9,¥6400,¥8400,-4500,-43,--,140,07/22/2016,13200,6100,3400,8700,44.0,4,-59.3,"9,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx500 rm hender scheme tan white,New,¥16800,9,¥38200,¥3300,+2300,16,White/Natural,300,11/24/2018,16800,14500,15800,17800,5.8,3,-47.1,"15,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 ren black layered mesh,New,¥21100,8.5,¥22700,¥18400,-1500,-7,Black/Core White/Black,320,01/01/2018,31100,21100,16700,25600,20.9,3,-37.5,"25,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas climacool triple white,New,¥12200,12,--,¥3600,+4300,55,--,120,04/02/2016,12200,7800,10400,13900,14.4,3,-4.4,"10,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom fashion week,New,¥5300,11.5,¥10300,--,-5200,-50,--,170,05/07/2016,10600,5300,3100,7500,41.1,3,-70.6,"7,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 super knot white black,New,¥24900,9.5,¥21000,¥16100,+800,3,Core White/Crystal White/Black,280,01/01/2018,24900,10000,18000,31800,27.7,3,-15.8,"19,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex free hiker kith black,New,¥44300,8.5,¥58500,¥34200,-20300,-31,Black/Multi,250,12/26/2018,64700,44300,35900,52700,19.1,3,68.0,"53,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung-1 end atmosphere,New,¥8800,11,¥17200,¥12000,+1300,17,Ash Silver/White/Blue,150,09/08/2018,8800,6400,7700,9700,11.2,3,-44.9,"7,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar white mountaineering core black,New,¥5800,9.5,¥9500,¥7500,-1000,-15,Core Black/Multi Solid Grey/Running White,150,01/26/2018,8100,5800,5000,6700,15.3,3,-63.3,"6,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 harigane mystery ink,New,¥24900,7.5,¥24300,¥22600,-100,0,Mystery Ink/Core Black/Footwear White,390,03/01/2018,25000,24900,24900,24900,0.2,3,-39.5,"24,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux ocean,New,¥12700,12.5,¥18500,¥10800,-2000,-14,--,90,03/29/2014,14700,12200,11600,13800,8.6,3,33.3,"13,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 bravo fall of the wall,New,¥36900,7.5,¥55900,¥30000,+6500,21,Pink/Bliss Pink/Light Aqua,195,11/08/2014,36900,27500,33000,40900,10.7,3,79.7,"31,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus chinese new year (2018),New,¥5300,9.5,¥14700,¥4700,-7300,-58,--,110,01/13/2018,13200,5300,1700,8900,68.5,3,-54.5,"10,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba adv shepard fairey,New,¥7400,9.5,¥31700,¥6800,-1000,-12,Footwear White/Footwear White/Gold Metallic,300,06/09/2018,8500,2800,5000,9900,33.5,3,-76.7,"6,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ultra tech real lilac,New,¥8200,14,¥7400,¥5500,-2300,-22,Crystal White/Real Lilac/Core Black,120,06/01/2018,15900,8200,4900,11400,39.7,3,-35.8,"11,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 retro boost black electric blue,New,¥21100,11,¥20000,¥16500,-4500,-18,Electric Blue/Core Black/Footwear White,--,02/01/2016,25700,10600,14800,27500,29.9,3,--,"19,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas attitude hi ewing knicks (2014),New,¥53600,13,--,¥16800,+36700,217,--,100,01/01/2014,53600,13200,36800,70200,31.3,4,407.5,"24,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js gorilla black,New,¥35300,8.5,¥25300,¥30300,+3600,11,Black 1/Black 1/Black 1,200,05/03/2012,35300,19000,28300,42200,19.8,3,66.8,"28,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 qasa high black white (2014),New,¥21100,7.5,¥35000,¥14700,-10500,-33,Core Black/Core Black/Footwear White,390,01/01/2014,63300,21100,3200,39000,85.0,3,-48.7,"38,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 4d-5923 never made pack,New,¥42300,11,¥84400,¥42100,-47300,-53,Red/White/Aero Green,350,10/06/2018,89600,42300,22900,61700,46.0,3,14.6,"64,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas manchester marine oi polloi,New,¥33800,10,¥41300,¥26400,+8200,32,Dark Blue/Blue/Dark Blue,--,11/30/2016,33800,25700,30200,37300,10.4,3,--,"28,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas continental 80 tfl oyster club,New,¥7100,8,¥27300,¥27000,-20800,-75,Grey/Burgundy/Grey,104,10/27/2018,28000,7100,-1600,15900,123.6,3,-35.4,"19,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux cityscape,New,¥14300,10,¥24000,¥13700,+3700,35,--,90,03/29/2014,14300,8500,11900,16700,16.8,3,50.0,"11,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular invader strap triple black,New,¥7400,9.5,¥9300,--,-1600,-19,--,110,08/15/2016,9100,7400,6600,8300,11.4,2,-36.4,"8,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s enlarged stripes black,New,¥6000,11,¥8600,¥3700,-400,-7,Core Black/Running White/Core Black,125,12/01/2018,6400,6000,5700,6200,3.6,2,-55.2,"6,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 adv core black off white,New,¥13200,9,--,¥7400,-2500,-16,Core Black/Off White/Core Black,150,10/01/2018,15800,13200,12000,14500,9.6,2,-16.7,"14,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 500rm tfl oyster club,New,¥16000,11,¥21800,¥11100,+2200,15,Black/Red/Blue,104,10/27/2018,16000,13900,14900,17000,6.6,2,45.3,"14,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas elastic slip on pharrell multi-color,New,¥6900,10.5,¥12000,¥8900,+3200,86,--,110,05/05/2016,6900,3700,5300,8500,23.1,2,-40.9,"5,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 alpha fall of the wall,New,¥31400,12.5,¥29100,¥30000,+23600,303,Black 1/Black 1/Light Solid Grey,195,11/08/2014,31400,7800,19500,43200,37.6,2,52.3,"19,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas climacool triple black,New,¥7400,8.5,¥8200,¥5200,-4900,-40,--,120,04/02/2016,12400,7400,5000,10000,33.2,2,-41.4,"10,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 tangutsu blue,New,¥20600,9,¥20600,¥4700,-3500,-15,Blue/Mystery Ink/Footwear White,290,01/01/2018,24200,20600,18800,22400,8.7,2,-32.8,"22,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular shadow knit white,New,¥7400,8.5,¥6800,¥6400,-4100,-36,--,100,12/08/2016,11500,7400,5400,9500,27.9,2,-30.0,"9,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs matrix spirit hi raf simons black white,New,¥10600,11,¥18600,¥7900,+1600,18,Core Black/White/Core Black,350,10/01/2016,10600,9000,9900,11400,7.5,2,-71.4,"9,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas micropacer og (2014),New,¥14400,10.5,¥26400,¥15200,+700,5,--,150,08/16/2014,14400,13800,14100,14700,2.2,2,-9.3,"14,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s snakeskin,New,¥6300,9,¥10600,--,+1000,18,Core Black/Core Black/Core Black,100,01/01/2016,6300,5300,5800,6800,7.6,2,-41.0,"5,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ultra boost uncaged grey green,New,¥12200,12.5,¥15100,¥12600,-3400,-22,Grey Two/Grey Five/Hi-Res Green,180,03/14/2018,15600,12200,10400,14000,14.4,2,-36.1,"14,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar hender scheme black white,New,¥59400,8,¥57200,¥31700,-8700,-13,Black/White,900,03/16/2018,68100,59400,55000,63700,7.4,2,-37.5,"63,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ultra star united arrows & sons,New,¥8100,10.5,¥10500,--,+200,1,Cloud White/Core Black/Chalk White,180,08/25/2018,8100,8000,8100,8200,0.7,2,-57.8,"8,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle triple black,New,¥12900,9.5,¥18600,¥6300,-100,-1,Core Black/Core Black,80,07/18/2018,13100,12900,12900,13000,0.7,2,53.0,"13,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba sock black white,New,¥11100,10.5,--,¥11500,0,0,Core Black/Cloud White/Core Red,110,04/01/2018,11100,11100,10100,12300,--,2,-4.5,"11,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular shadow ck clear brown tactile blue,New,¥5300,10.5,¥8200,--,-2100,-29,Clear Brown/Tactile Blue/Crystal White,100,01/01/2018,7400,5300,4300,6400,20.0,2,-50.0,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 700 boat neighborhood,New,¥22100,9.5,¥36900,¥16100,+5100,29,Black 1/Black 1/White,--,01/01/2008,22100,17000,19500,24500,11.4,2,--,"19,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 8 all-star (2014),New,¥19100,9.5,¥16000,¥12600,+700,3,Solar Zest/Solar Slime/Solar Blue,110,02/14/2014,19100,18500,18800,19400,1.7,2,64.5,"18,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular instinct boost tan leather,New,¥6900,10,¥17200,--,+3500,98,--,160,12/08/2016,6900,3500,5200,8700,24.8,2,-59.1,"5,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js wings rainbow,New,¥40600,11,¥38900,¥24700,+1400,3,Sun/Poppy/Black 1,200,08/08/2012,40600,39300,40000,41400,1.7,2,92.5,"40,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung-96 legend marine steel,New,¥4300,8,¥6900,--,-700,-15,Legend Marine/Steel/Solar Red,100,12/06/2018,5000,4300,3900,4700,8.8,2,-60.0,"4,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom triple black 2.0,New,¥10600,10.5,¥21100,--,-8400,-44,--,160,09/09/2016,19000,10600,6400,14800,40.0,2,-37.5,"14,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas munchen super spezial collegiate royal,New,¥6300,9.5,¥9500,¥4700,+1200,23,Collegiate Royal/Off White/Off White,110,09/07/2018,6300,5100,5700,6900,9.3,2,-46.4,"5,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazylight boost 2016 shock mint,New,¥11100,10,¥10600,¥8000,+300,2,Shock Mint/Orange/Black,--,01/01/2016,11100,10900,11000,11200,1.0,2,--,"11,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 charlie fall of the wall,New,¥27200,13,¥29100,¥20400,+2200,9,Neo White/Neo White/Core Black,195,11/08/2014,27200,25100,26200,28300,4.0,2,32.3,"26,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js bones jeremy scott multi-color,New,¥26400,8.5,--,¥3600,+10600,67,Faded Gold Star/Solar Blue/Bahia Magenta,200,04/01/2014,26400,15900,21900,30900,17.2,3,25.0,"20,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas temper run light brown,New,¥4300,9,¥7800,¥2800,-1800,-31,Light Brown/Light Brown/Core Black,140,11/07/2018,6200,4300,3300,5200,22.5,2,-71.4,"5,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s enlarged stripes white,New,¥8000,11.5,¥8600,¥2000,+1600,25,Running White/Core Black/Crystal White,125,12/01/2018,8000,6400,7200,8800,10.0,2,-40.0,"7,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s eddie huang,New,¥8000,11.5,¥21000,¥30800,-4700,-38,Core Black/Core Black/Core Black,160,10/08/2016,12700,8000,5500,10400,30.0,2,-53.1,"10,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas jawpaw slip-on kith eea (element),New,¥11200,8,¥16500,¥2600,-3300,-23,Tech Green/Dust Sand/Chalk White,80,03/30/2018,14600,11200,9500,12900,15.1,2,32.5,"12,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas trimm star vhs,New,¥19200,11.5,¥80200,¥17700,+9800,102,Cream/Gold/Gum,112,05/04/2018,19200,9500,14400,24100,25.3,2,62.5,"14,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus pride pack (2018),New,¥5600,10.5,¥8200,¥10100,-2300,-29,Cream White/Trace Pink/Trace Scarlet,90,06/01/2018,8000,5600,4500,6800,20.8,2,-41.1,"6,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas temper run tfl oyster club,New,¥12600,10,¥28000,--,0,0,Grey/Multi-Color/White,104,10/27/2018,12600,12600,11300,13900,--,1,14.1,"12,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex fast gore-tex surround white mountaineering,New,¥10600,8,--,¥7400,0,0,Black/White/Black,250,11/10/2018,10600,10600,9500,11600,--,1,-60.0,"10,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s luker neighborhood white,New,¥21000,9.5,¥34100,¥32100,0,0,White/White/Black 1,--,01/01/2010,21000,21000,18900,23100,--,1,--,"21,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle gtx moskva,New,¥19100,9.5,¥19600,¥18900,0,0,--,110,10/07/2016,19100,19100,17200,21000,--,1,64.7,"19,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas micropacer star wars,New,¥17400,9.5,¥73800,¥17300,0,0,Metallic Silver/Metallic Silver/Black 1,--,01/01/2010,17400,17400,15600,19100,--,1,--,"17,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas hu pod pharrell black,New,¥52700,10,¥131800,¥3100,0,0,Black/Grey/White,--,11/03/2018,52700,52700,47500,58000,--,1,--,"52,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas handball top white black pink,New,¥9000,7,--,¥8500,0,0,Vintage White/Core Black/Shock Pink,100,04/01/2018,9000,9000,8100,9900,--,1,-15.1,"9,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 ryo high dark green,New,¥33400,12.5,¥31700,¥8300,0,0,Black Olive/Black Olive/Terra Mass,--,11/01/2018,33400,33400,30000,36700,--,1,--,"33,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs matrix spirit hi raf simons sun blue,New,¥19500,10,¥25300,¥2700,0,0,Mist Sun/Bright Blue/Mist Sun,350,10/01/2016,19500,19500,17700,21600,--,1,-47.1,"19,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 35th anniversary graphic,New,¥21800,10.5,¥10600,¥10500,0,0,--,--,01/01/2004,21800,21800,19700,24000,--,1,--,"21,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas marathon tr trace royal,New,¥12800,10.5,--,¥11100,0,0,--,120,01/09/2018,12800,12800,11500,14100,--,1,0.8,"12,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,rick owens tech runner white leather,New,¥31800,10.5,¥105300,¥31600,0,0,--,790,03/06/2016,31800,31800,28600,34900,--,1,-61.9,"31,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas hamburg tribe yellow bluebird,New,¥32000,10,¥32000,¥10500,0,0,Tribe Yellow/Bluebird/Metallic Gold,--,03/08/2014,32000,32000,28800,35100,--,1,--,"32,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 undefeated orange,New,¥32200,9,¥74700,¥27800,0,0,Supplier Colour/Mon Orange/Orange,--,10/18/2008,32200,32200,28900,35400,--,1,--,"32,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas continental 80 tfl elizabeth line white blue grey,New,¥10200,12.5,--,¥7100,0,0,Footwear White/Grey One/Gum Three,96,12/10/2018,10200,10200,9100,11100,--,1,-0.5,"10,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex free hiker kith (f&f),New,¥10600,10.5,--,--,0,0,Footwear White/Footwear White/Silver Metallic,--,12/01/2018,10600,10600,9500,11600,--,1,--,"10,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 super high black white,New,¥19000,10.5,--,¥11600,0,0,Black/Footwear White/Chalk White,305,01/01/2018,19000,19000,17100,20900,--,1,-41.0,"19,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas predator tango 18+ core black,New,¥11000,9.5,¥11400,¥9500,0,0,Core Black/Core Black/Footwear White,200,01/01/2018,11000,11000,10000,12100,--,1,-48.0,"11,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas vulc lace up pharrell blue,New,¥13000,13,¥10600,¥7300,0,0,--,80,05/12/2016,13000,13000,11700,14400,--,1,54.1,"13,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle 85 primeknit wings and horns black,New,¥10600,9.5,¥7400,¥5500,0,0,--,120,09/09/2016,10600,10600,9500,11600,--,1,-16.7,"10,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 500 adigame,New,¥17500,10,--,¥9300,0,0,Core Black/Silver Metallic/Multi,--,02/12/2010,17500,17500,15900,19300,--,1,--,"17,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung 1 absolute vintage white,New,¥14100,10.5,¥34100,¥11500,0,0,Chalk White/Red/Chalk White,35,11/24/2018,14100,14100,12700,15500,--,1,281.3,"14,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung 1 absolute vintage black,New,¥19000,10.5,¥30100,¥8900,0,0,Core Black/Red/Core Black,35,11/24/2018,19000,19000,17100,20900,--,1,414.3,"19,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 harigane black chili pepper,New,¥33400,7.5,¥34100,¥5100,0,0,Core Black/Chalk White/Chili Pepper,390,03/01/2018,33400,33400,30000,36600,--,1,-19.0,"33,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 adv sock real purple,New,¥8000,9,¥10600,¥7100,0,0,Real Purple/Real Purple/Core Black,140,05/15/2018,8000,8000,7200,8800,--,1,-46.4,"8,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus raw green,New,¥6400,11,--,¥1900,0,0,Raw Green/Cloud White/Crystal White,80,01/01/2018,6400,6400,5700,7000,--,1,-25.0,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar made in france white black,New,¥42100,9.5,¥61200,¥47400,0,0,--,160,12/12/2014,42100,42100,37900,46300,--,1,149.4,"42,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 superknot black white,New,¥19500,9,¥21100,¥12100,0,0,Black/Black/Footwear White,280,09/10/2018,19500,19500,17700,21600,--,1,-33.9,"19,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas marathon 5923 burgundy,New,¥9000,11,¥8500,¥5700,0,0,Burgundy/Silver Metallic/Running White,--,10/20/2018,9000,9000,8200,10000,--,1,--,"9,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux sns,New,¥23400,9.5,¥21100,--,0,0,--,130,08/16/2014,23400,23400,21100,25800,--,1,70.7,"23,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adicolor lo y1 huf ray fong,New,¥21200,8.5,¥158100,¥8500,0,0,Sun/White/Sun,150,01/01/2006,21200,21200,19100,23300,--,1,34.0,"21,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas spezial padiham brown,New,¥11400,12,--,¥10500,0,0,Brown/Black,110,03/23/2018,11400,11400,10300,12600,--,1,-1.8,"11,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ubersonic 3.0 palace wimbledon black,New,¥23400,10,¥5600,--,0,0,Core Black/Silver Metallic,170,07/03/2018,23400,23400,21100,25800,--,1,30.6,"23,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas elastic slip on pharrell white,New,¥17200,10,¥11200,¥11500,0,0,--,110,05/05/2016,17200,17200,15500,18900,--,1,48.3,"17,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s luker neighborhood black,New,¥11600,10.5,¥35400,¥3300,0,0,Black 1/Black 1/White,--,01/01/2010,11600,11600,10500,12800,--,1,--,"11,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas top ten hi triple crown,New,¥27500,12,--,¥21000,0,0,Collegiate Navy/Collegiate Orange/Footwear White,90,11/22/2014,27500,27500,24700,30200,--,1,188.9,"27,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 saikou core white,New,¥29600,10,¥24500,¥7300,0,0,Core White/Footwear White/Black,450,08/15/2018,29600,29600,26600,32500,--,1,-37.8,"29,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle gtx st. petersburg,New,¥14800,13,¥19600,¥18900,0,0,--,110,10/07/2016,14800,14800,13300,16300,--,1,27.3,"14,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas wilsy spezial off white night navy,New,¥16800,10,--,--,0,0,Off White/Night Navy/Off White,110,09/21/2018,16800,16800,15100,18500,--,1,44.5,"16,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx500 rm grey purple black,New,¥10500,10.5,¥11600,¥7800,0,0,Grey/Purple/Black,153,12/01/2018,10500,10500,9400,11500,--,1,-35.3,"10,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adilette sock summer spice,New,¥4100,7,¥6200,--,0,0,Trace Orange/Trace Orange/White Tint,--,05/10/2018,4100,4100,3600,4400,--,1,--,"4,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas quesence collegiate burgundy,New,--,--,¥8500,¥6500,0,0,Collegiate Burgundy/Chalk White/Core Black,120,10/14/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 kaiwa cream black,New,¥10600,11,--,¥12900,0,0,Cream/Black,400,05/15/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js instinct hi sun black,New,--,--,--,¥6700,0,0,Sun/Black 1/Sun,180,03/03/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adilette sock summer white,New,--,--,¥13700,--,0,0,White Tint/Crystal White/Grey One,--,05/10/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rod laver barneys sole series (2018),New,¥26800,7.5,--,¥11500,0,0,White/Green/Off White,150,03/20/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas forum mid star wars at-at,New,--,--,¥38200,¥28900,0,0,Ice Green/Legacy Silver/Alumnium 2,--,04/01/2010,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js instinct hi leopard,New,--,--,¥16000,¥10500,0,0,Core Black/Core Black/Supplier Colour,200,01/01/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx500 shaniqwa jarvis,New,¥9200,8,¥30000,¥31600,0,0,Blue/White,--,06/16/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 9000 ocean turquoise,New,--,--,--,¥19000,0,0,Ocean/Turquoise/Star,120,01/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rivalry hi nigo brown,New,--,--,¥13400,¥15800,0,0,Flat White/Carbon Black/Brown,--,10/24/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas punstock spezial timber,New,¥8500,10,--,¥10500,0,0,Timber/Timber/Core Black,155,09/07/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas bmx cycling opening ceremony,New,--,--,¥23400,--,0,0,White/Legacy/Marine,--,01/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,"adidas zx flux pattern pack ""camo""",New,¥4400,9,¥7200,--,-9100,-68,--,110,05/03/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas marathon tr mid nigo white,New,--,--,¥24100,--,0,0,Footwear White/Footwear White,--,10/24/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas handball top oyster holdings scarlet (friends & family),New,--,--,--,¥3900,0,0,Light Scarlet/Blue,--,03/29/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas trimm star vhs black,New,¥6000,9.5,--,¥9300,0,0,Black/Cream/Black,112,05/25/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas predator 1994 fg remake (2014),New,--,--,¥67800,¥27400,0,0,Core Black/Cloud White/Solar Red,275,01/01/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux weave dark blue orange,New,--,--,¥24500,--,0,0,Dark Blue/Power Blue/Black,--,10/02/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas bounce s4 leather porsche design blue,New,--,--,¥38200,¥6700,0,0,Blue/Black/Blue,--,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superskate mid star wars rogue leader hoth,New,--,--,¥32700,¥21000,0,0,Light Sand Hay/Dark Sand Hay/White,--,01/01/2010,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux decon northern lights,New,--,--,--,¥4200,0,0,Core Black/Core Black/Frozen Yellow,100,01/25/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,y3 qasa high 300 black,New,¥31700,8.5,¥52700,¥36800,0,0,--,455,01/25/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl 72 black white,New,--,--,--,¥7900,0,0,Black/White/Black,90,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex skychaser kith black,New,¥4800,13,¥50100,¥24200,0,0,Black/Multi,190,12/26/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas eqt running support oddity,New,--,--,¥37100,--,0,0,Black 1/Red Beauty/Running White,--,04/05/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 3st.003 na-kel smith,New,¥8000,11,--,¥5200,+600,7,Cloud White/Bold Green/Bold Gold,95,12/20/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 arc rc black white,New,--,--,¥16900,¥15200,0,0,Core Black/Core Black/Crystal White,320,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular nova white mountaineering,New,--,--,¥16000,--,0,0,--,180,10/27/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js street ball multi,New,--,--,¥306100,¥2300,0,0,Altitude/Art Green/Black 1,200,10/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle off white chalk white,New,¥7400,8,¥3700,¥5200,+3200,75,Off White/Chalk White/Gold Metallic,80,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 runner 4d black white,New,¥205600,10,¥210700,¥92800,+41800,26,Black/White,535,02/23/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux weave white black onix,New,--,--,¥24100,¥12100,0,0,Footwear White/Black/Onix,--,10/08/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux paris grey cheetah,New,--,--,¥21700,--,0,0,Black 1/Running White/Tech Grey,150,01/01/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 9000 crooked tongues,New,--,--,¥77700,¥23200,0,0,Ice Grey/Black 1/Sun,--,01/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas p5000 athletic 2 mesh porsche design black,New,--,--,¥30300,--,0,0,Black/Grey/Scarlet,300,11/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js metro attitude 3 tongues white black,New,--,--,¥51300,--,0,0,White/Black,220,10/22/2010,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus 80s mita,New,--,--,¥19700,--,0,0,Black 1/Metallic Silver/Legacy,--,01/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 branch,New,¥5400,9.5,¥10400,¥2700,0,0,Branch/Umber/Pale Nude,100,11/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js snow metallic silver,New,--,--,¥56700,--,0,0,Metallic Silver/Light Orange/Slime,--,01/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 qr run black white,New,--,--,¥19000,¥10700,0,0,Core Black/Core Black/Footwear White,--,02/20/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adicolor hi w2 white,New,--,--,¥17100,--,0,0,--,180,01/01/2006,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js face hiking boot pink,New,--,--,¥16700,--,0,0,Pink/Yellow/Black,--,06/16/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular instinct boost black white,New,¥2700,11.5,¥9400,--,-5700,-69,Core Black/Crystal White/Footwear White,160,12/07/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 80s metal toe pony hair black,New,--,--,¥27400,¥12100,0,0,Core Black/Core Black/Off White,120,01/01/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 7000 patta,New,--,--,¥55500,¥18900,0,0,Big Surf/Light Scarlet/Collegiate Purple,--,01/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas eqt support running aluminum red black,New,--,--,¥33300,¥7400,0,0,Aluminum/Red/Black 1,--,08/01/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 ekika white,New,--,--,¥18500,¥5400,0,0,Footwear White/Footwear White/Yellow,280,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux 5/8 trail olive,New,--,--,--,¥6000,0,0,Olive Cargo/Core Black/Chalk White,115,01/01/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas forest grove linen green active gold,New,--,--,¥13800,¥7900,0,0,Linen Green/Active Gold/Ash Silver,--,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom sock core black trace scarlet,New,¥12700,10.5,¥21300,¥5200,0,0,Core Black/Trace Scarlet/Core Black,140,04/17/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas stockholm blue yellow,New,--,--,¥29600,¥20400,0,0,Satellite Blue/Sunshine/Gum,--,08/11/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs replicant ozweego raf simons black cream (special edition with socks),New,¥26400,12,¥52200,¥9000,+10800,69,Core Black/Cream White/Footwear White,550,03/15/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas elastic lace up pharrell multi-color,New,¥10600,10.5,¥8500,¥6300,+1100,11,--,105,05/05/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 7000 rivington,New,--,--,¥63600,¥6000,0,0,University Red/Cardinal/Toro,170,09/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas athletic leather 4 porsche design black,New,--,--,¥29600,--,0,0,Core Black/Core Black/Core Black,--,01/01/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas eqt support running black lemon purple,New,--,--,¥23400,¥7400,0,0,Black/Lemon Peel/Royal,--,01/01/2010,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas jeans base green,New,--,--,¥28300,--,0,0,Base Green/Semi Solar Green/Gum 4,95,11/10/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rs replicant ozweego raf simons colonial blue (special edition with socks),New,¥19000,9,¥17700,¥16700,+5800,44,Core Black/Colonial Blue/Core Black,550,03/15/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 bodega,New,--,--,¥80200,¥36200,0,0,Loam/Rave Red/Black 1,--,01/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 8000 the memphis group post modern,New,--,--,¥47700,¥13800,0,0,Core Purple/Bluebird/Running White,--,05/01/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tresc run core black silver metallic,New,--,--,¥7300,--,0,0,Core Black/Silver Metallic/Active Red,--,11/23/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 500 og quote,New,--,--,¥47000,¥26400,0,0,Ice Grey/Lone Blue/Black 1,--,06/16/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas spezial glenbuck clear brown,New,¥5800,7.5,¥10100,¥6700,-500,-8,Clear Brown/Off White/Clear Granite,130,03/09/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gsg9 barbour black,New,--,--,¥77800,¥16800,0,0,Black/Black/Black,210,11/08/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux adv x light onix,New,¥6400,7,¥9500,--,0,0,--,140,07/14/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda core black off white,New,--,--,--,¥4500,0,0,Core Black/Off White/Blue,180,09/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 3st.002 clear brown,New,¥4300,10.5,--,¥2700,-3600,-47,Clear Brown/Cloud White/Gum,100,04/05/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas attitude hi nba boston celtics,New,--,--,¥19800,--,0,0,Running White/Kelly Solid Green/Kelly Solid Green,--,01/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba white mountaineering winning collection,New,--,--,--,¥11100,0,0,Grey/Grey/White,--,05/30/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux dark indigo,New,--,--,¥30800,¥7400,0,0,Dark Indigo/Dark Indigo/Pool,--,01/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 9000 wood wood,New,--,--,¥82800,¥48000,0,0,--,--,10/18/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas grand slam 2 white blue red,New,--,--,¥27200,--,0,0,White/Blue/Red,--,01/01/2012,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas handball top icey pink,New,¥7700,11,¥10700,¥7300,-1700,-19,Icey Pink/Icey Pink/Gum,120,08/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas f/22 trace orange crystal white,New,¥10600,12,¥17300,¥3600,0,0,Trace Orange/Crystal White/Cloud White,160,05/03/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas falcon size? acid house,New,--,--,--,¥16100,0,0,Chalk White/Core Black/Sonic Yellow,110,08/24/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas climacool shoe gallery flight 305,New,¥7400,8,¥26400,¥3100,-3100,-30,--,150,12/29/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 qasa high black cream,New,--,--,¥84300,--,0,0,--,288,12/11/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas aw bball alexander wang all-star 2018,New,¥26500,11.5,--,¥18900,-900,-4,Black/Grey/White,300,02/16/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas prophere grey one,New,--,--,--,¥7300,0,0,Grey One/Grey One/Core Black,120,06/12/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas stan smith mastermind,New,--,--,¥16000,¥7300,0,0,Black 1/White Vapour/Black 1,--,02/22/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas d rose 7 white christmas,New,--,--,¥210800,¥73700,0,0,Footwear White/Footwear White/Footwear White,160,12/01/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js artillery hi black gold,New,--,--,¥30800,¥10500,0,0,Black 1/Black 1/Collegiate Gold,200,01/01/2008,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular nova white mountaineering,New,--,--,¥10600,--,0,0,--,180,10/27/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus triple black,New,--,--,¥105400,--,0,0,Core Black/Core Black/Core Black,75,01/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js license plate new york blue,New,--,--,¥33300,--,0,0,White/Satellite Blue/Metallic Silver,200,01/01/2010,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas micropacer x r1 never made pack triple white,New,¥9500,10.5,¥10700,¥7400,+3700,64,White/White/White,230,11/19/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas js rod laver gold,New,--,--,¥32000,¥4000,0,0,Metallic Gold/Light Old Gold/Metallic Gold,200,01/01/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 4d-5923 never made pack cloud white,New,¥73800,9,--,¥14300,+26400,56,Running White/Cloud White/Grey,350,10/06/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas hochelaga spzl collegiate navy blanch sea,New,--,--,¥20500,¥12100,0,0,Collegiate Navy/Blanch Sea/Collegiate Royal,--,03/18/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar city pack new york,New,¥12500,11,--,--,0,0,Cloud White/Collegiate Royal/Core Black,120,--,12500,12500,11200,13800,--,1,-1.6,"12,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba og white green gum,New,¥9000,8.5,--,--,0,0,Cloud White/Green/Gum,120,11/17/2018,9000,9000,8200,10000,--,1,-29.2,"9,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samoa white/white-cool grey,New,¥6400,9.5,--,--,0,0,White/White-Cool Grey,70,--,6400,6400,5700,7000,--,1,-14.3,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy explosive grey white,New,--,--,--,--,0,0,Grey/White/Ice,--,--,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas harden b/e blue,New,--,--,--,--,0,0,Blue/Mystery Ink/Footwear White,--,--,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas d lillard 2 collegiate royal,New,--,--,--,--,0,0,Collegiate Royal/Tech Steel/Footwear White,--,10/24/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas d rose englewood boost dark grey red,New,--,--,--,--,0,0,Dark Solid Grey/Ray Red/Core Black,--,--,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas trimm star size? archer,New,--,--,--,--,0,0,White/Blue/Gum,--,--,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 700 fluorescent/black-white,New,¥13000,11,--,--,0,0,Fluorescent/Black-White,--,--,13000,13000,11700,14400,--,1,--,"13,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 3st.003 miles silvas,New,¥8500,8.5,¥15900,¥5700,+3200,60,Clear Blue/Collegiate Navy/Cloud White,95,11/01/2018,8500,4300,6900,10100,19.2,6,-15.8,"6,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular dusk core black cloud white,New,¥8000,10.5,--,¥6300,0,0,Core Black/Cloud White/Solar Red,100,07/03/2018,8000,4300,6300,9600,22.0,3,-25.0,"6,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 noci 0003 black red,New,¥19800,9.5,--,--,-11900,-38,--,420,06/26/2016,31700,19800,13800,25800,30.5,2,-55.6,"25,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas f1.3 le triple black,New,¥19000,12,¥12500,--,0,0,Core Black/Core Black/Core Black,130,10/23/2018,19000,19000,17100,20900,--,1,38.5,"19,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 super zip triple black,New,¥36900,9.5,¥34800,¥1900,0,0,Core Black/Core Black/Core Black,320,11/10/2016,36900,36900,33200,40600,--,1,9.4,"36,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 4 grey,New,¥5300,13,--,--,0,0,Grey Three/Core Black/Grey,115,01/01/2018,5300,5300,4800,5800,--,1,-56.5,"5,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus adv marc johnson,New,¥4400,8,--,¥6000,0,0,Olive Cargo/Core Black/Gold Metallic,85,10/17/2018,4400,4400,3900,4800,--,1,-52.0,"4,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas f/1.3 base green,New,--,--,--,¥5600,0,0,Base Green/Night Cargo/Bright Red,130,11/01/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl loop runner white blue red,New,--,--,--,¥10500,0,0,Footwear White/Bluebird/Red,75,01/01/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 super zip black white,New,¥30200,10.5,--,--,+10700,55,Core Black/Core Black/Chalk White,330,08/23/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular radial black brass,New,¥4800,10,--,--,0,0,--,110,01/01/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx flux seoul,New,¥12700,10,--,¥5200,0,0,--,--,07/31/2014,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom sock sesame green,New,--,--,--,¥5200,0,0,--,160,01/11/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular nova white mountaineering,New,--,--,¥10600,--,0,0,--,180,10/27/2016,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 350 oyster holdings green (friends & family),New,--,--,--,¥5200,0,0,Green/Chalk White/Gold Metallic,--,03/29/2018,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 500 dragon ball z son goku,New,¥35400,9.5,¥23300,¥47400,-900,-3,Orange/Collegiate Royal/Hi-Res Red,170,09/29/2018,75900,16400,30800,39900,12.8,509,97.1,"33,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adilette huangs world,New,¥13200,12,¥20600,¥13700,+2700,25,--,50,10/08/2016,13200,8500,11700,14700,11.2,6,150.0,"10,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas prophere olive,New,¥8000,10.5,¥8500,¥5200,+1600,25,--,120,01/11/2018,9000,6400,7000,8900,12.1,4,-37.5,"7,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw x alphatype,New,¥9900,8,¥7400,¥7900,-1700,-15,Core Black/Core Black/Flash Red,180,11/22/2018,14800,4300,8000,11600,18.5,190,-48.6,"7,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov black white gum,New,¥11600,12,¥10600,¥11500,+3700,47,Core Black/Footwear White/Gum 3,140,06/21/2018,18500,4500,9300,14000,19.6,96,-21.4,"8,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw cream white clear orange,New,¥6900,11,¥6700,¥4700,0,0,Cream White/Clear Orange/Clear Grey,150,10/03/2018,11600,3900,5700,8100,16.6,42,-56.7,"6,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas daily 2.0 denim black,New,¥5200,10,¥4800,¥3100,-100,-2,Core Black/Core Black/Footwear White,60,01/01/2018,12700,2700,3700,6700,29.2,41,-18.3,"6,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas temper run shock purple,New,¥5300,8.5,¥4300,¥2600,+1600,41,Shock Purple/Shock Purple/Glow,140,09/20/2018,6900,2700,4300,6400,20.9,38,-64.3,"4,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas marathon c.p. company black,New,¥18800,9,¥12400,¥15700,-1800,-9,Core Black/Core Black/Collegiate Royal,160,08/24/2018,30000,10200,13600,23900,27.4,32,11.0,"16,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas futurepacer core black,New,¥7200,9.5,¥7300,¥4700,-700,-9,Core Black/Carbon/Cloud White,180,09/01/2018,9500,4800,6200,8300,15.3,29,-62.2,"6,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas consortium 4d kith aspen,New,¥67900,10,¥42000,¥50000,-14000,-17,Multi-Color/Multi-Color/Aero Green,--,11/02/2018,82000,31700,61100,74900,10.2,27,--,"61,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas continental 80 mist sun,New,¥4500,11,¥4300,¥5200,+800,20,Mist Sun/Hi-Res Aqua/Scarlet,80,11/01/2018,8100,2700,3100,5800,31.2,24,-47.5,"5,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pod-s3.1 grey two shock yellow,New,¥5500,8,¥4800,¥3100,-800,-13,Grey Two/Grey Two/Shock Yellow,120,08/02/2018,7400,2800,4400,6700,20.5,20,-56.7,"4,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adilette cloudfoam plus triple black,New,¥4900,10,¥2700,--,0,0,Core Black/Core Black/Core Black,35,01/01/2018,26400,2700,4100,5700,18.3,23,31.4,"4,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas kamanda black gum,New,¥10600,10.5,¥15900,¥12600,-3100,-23,Core Black/Core Black/Gum,150,04/28/2018,21800,6600,7200,14000,31.9,20,-33.3,"13,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung-96 grey shock pink,New,¥4900,9,¥3200,--,+2300,85,Grey Two/Grey Three/Shock Pink,100,12/06/2018,6900,2700,3800,6000,22.1,18,-53.8,"4,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sobakov sesame,New,¥12700,9.5,¥19000,¥10500,+6400,100,Sesame/Light Brown/Light Brown,120,10/04/2018,15800,6400,10000,15400,21.7,14,--,"8,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas handball top oyster yellow,New,¥7800,11.5,¥10100,¥7200,-4600,-37,Yellow/Blue,130,03/29/2018,17500,4800,5200,10500,33.6,14,-43.1,"9,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 byw bball core black lush red,New,¥27300,10,¥19500,¥9000,+200,0,Core Black/Lush Red/Crystal White,450,08/10/2018,27300,10800,21800,32900,20.5,15,-42.4,"20,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt bluebird,New,¥6900,12,¥10500,¥6800,+400,5,Bluebird/Bluebird/Equipment Yellow,100,04/01/2018,12700,4800,4200,9600,40.2,15,-35.0,"7,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas lowertree spezial aero reef,New,¥4200,11.5,¥9400,¥7900,-5300,-56,Off White/Light Purple/Aero Reef,120,09/07/2018,9500,4200,2700,5600,36.0,13,-67.3,"6,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,y3 pureboost zg knit core black,New,¥98100,8.5,¥189800,¥94800,+3200,3,--,400,03/18/2016,154800,84300,75500,120600,23.0,14,132.5,"109,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 tangutsu harden floral,New,¥13800,8.5,¥15000,¥18400,-800,-6,Core White/Core White/Black,330,04/13/2018,26400,12700,9700,17800,29.2,12,-60.6,"16,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tubular doom primeknit core black,New,¥31200,8.5,¥11000,¥8900,+23000,279,--,160,01/23/2016,31200,2700,23900,38600,23.7,12,85.0,"10,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dimension lo core black dark plum,New,¥5200,9,¥7400,--,-1100,-18,Core Black/Dark Plum/Mystery Ruby,130,11/01/2018,9100,4300,3800,6600,26.7,9,-62.3,"6,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas 98 x crazy byw never made pack,New,¥15900,10.5,¥8500,¥6800,+8800,124,Black/White/Black,150,10/06/2018,15900,2700,12500,19200,21.2,11,--,"7,800"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt hi res aqua,New,¥4800,9.5,¥5500,¥4700,-2500,-35,Hi-Res Aqua/Hi-Res Aqua/Core Black,100,07/05/2018,7800,2700,3300,6200,30.2,10,-55.1,"5,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas handball top oyster blue,New,¥14700,10.5,¥14700,¥5200,+7800,111,Blue/Coral,130,03/29/2018,14700,5400,12000,17500,19.1,10,7.1,"9,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex 2 white mountaineering black,New,¥10600,7.5,¥10500,¥6300,0,0,Black/Grey/White,150,08/11/2018,14700,7600,8200,13000,22.7,10,-33.3,"10,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 930 x eqt never made pack core black,New,¥9400,9,¥9100,¥5200,-10400,-53,Core Black/Utility Black/Solar Red,170,12/12/2018,19900,6400,5800,13000,38.7,9,-47.6,"10,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas detroit runner raf simons chalk white,New,¥17100,10,¥58500,¥16800,-8700,-34,Chalk White/Chalk White/Chalk White,420,08/16/2018,25900,14800,13600,20600,20.4,7,-61.4,"20,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy 1 a/d workshop,New,¥6400,11,¥9500,¥2700,+2200,50,Grey/Running White/Core Black,200,02/01/2018,9500,4100,4300,8500,32.8,9,-70.0,"7,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pure boost go grey three core black,New,¥7400,8.5,¥6400,¥10500,-1000,-12,Grey Three/Core Black/Hi-Res Orange,120,07/19/2018,16400,6400,4500,10400,40.2,9,-41.7,"8,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rivalry lo united arrows & sons,New,¥6300,10,¥5800,¥5200,+1000,18,Core Black/Core Black/Chalk White,180,08/25/2018,6300,4700,5700,6800,8.2,7,-67.2,"5,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tobacco c.p. company grey,New,¥27300,9.5,¥26400,¥21000,+10100,58,Clear Granite/Off White/Off White,130,08/24/2018,27300,10300,21600,33100,21.3,8,99.2,"19,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw lvl 1 bristol studio off white,New,¥10100,9.5,--,¥9000,-5700,-37,Off White/Off White/Yellow,200,02/15/2018,29600,8200,2800,17300,72.7,8,-52.5,"16,300"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas deerupt cardboard,New,¥6300,13,--,¥2300,+1600,32,Cardboard/Cardboard/Core Black,100,07/05/2018,6900,4300,5500,7100,12.8,8,-40.5,"5,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas spezial padiham night navy,New,¥10600,8.5,¥14800,¥10500,-2000,-16,Night Navy/Night Navy,110,03/09/2018,17000,9700,8000,13200,24.8,7,-9.1,"12,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas yung-96 collegiate navy raw white,New,¥10600,11.5,¥3700,¥5200,+5300,101,Collegiate Navy/Raw White/Solar Orange,100,12/06/2018,13100,4200,7100,14200,33.5,7,0.3,"8,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ubersonic 3.0 palace wimbledon white,New,¥19500,10.5,--,¥21000,+5900,43,Cloud White/Grey/Hi-Res Red,170,07/03/2018,23100,13600,16500,22600,15.7,7,9.0,"18,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw lvl 1 black carbon,New,¥7400,9.5,¥6400,¥8400,+2600,52,Core Black/Carbon/Hi-Res Orange,200,05/24/2018,10000,4900,5600,9200,24.4,7,-65.0,"7,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas replicant ozweego raf simons green vivid berry,New,¥20100,8,¥24300,¥3600,-8400,-30,Green/Vivid Berry/Vivid Berry,400,03/22/2018,28500,18900,16800,23300,16.2,7,-52.5,"23,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 harigane white black,New,¥34200,9.5,--,¥5200,+7800,29,Footwear White/Core Black/Mystery Ink,390,03/01/2018,34200,10600,26700,41600,21.8,6,-17.0,"25,200"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas detroit runner raf simons black white,New,¥31600,10,¥24300,¥14700,+11600,58,Core Black/Core Black/Chalk White,420,08/16/2018,31600,14700,26500,36600,16.2,6,-28.8,"22,500"

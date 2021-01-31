@@ -1,0 +1,101 @@
+id,brand,product_name,condition,last_sale,last_sale_size,lowest_ask,highest_bid,since_last_sale_dollar,since_last_sale_percent,colorway,retail_price,release_date,high_52_week,low_52_week,low_12_month_trade,high_12_month_trade,volatility,num_sales_12_month,price_premium_12_month,avg_sale_price_12_month
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nizza disney sport goofy black,New,--,--,¥5800,¥4000,0,0,Core Black/Cloud White/Cloud White,65,07/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas streetball core black collegiate gold,New,--,--,¥17500,¥4300,0,0,Core Black/Carbon/Collegiate Gold,110,04/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas type o-2l oamc black,New,--,--,¥26000,--,0,0,Black/Black/Black,250,01/23/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas easter human made core black,New,--,--,¥10600,¥6800,0,0,Core Black/Core Black/Off White,140,09/25/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar pure white (w),New,--,--,¥12000,--,0,0,Cloud White/Core Black/Gold Metallic,120,02/13/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar 360 girls are awesome (td),New,--,--,¥8700,--,0,0,Cloud White/Icey Pink/Signal Coral,50,04/22/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas type 02 oamc grey,New,¥15900,10,¥15500,¥10500,0,0,Grey Five/Core Black/Low Pink,250,01/23/2020,15900,15900,14300,17400,--,1,-40.0,"15,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ozweego legacy purple (gs),New,--,--,¥13700,¥12600,0,0,Legacy Purple/Legacy Purple/Cloud White,90,03/26/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rivalry hi sankuanz,New,--,--,¥19800,¥11500,0,0,Footwear White/Silver Metallic/Footwear White,--,05/23/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas stan smith trefoil white black (w),New,--,--,¥12300,--,0,0,Cloud White/Core Black/Gold Metallic,85,08/10/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas hrmny spzl white pink mint,New,--,--,¥10600,¥7100,0,0,Chalk White/Supplier Colour/Supplier Colour,130,09/17/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nizza white scarlet royal,New,¥6400,11.5,¥6400,¥2900,0,0,Cloud White/Scarlet/Royal Blue,65,09/01/2020,6400,6400,5700,7000,--,1,-7.7,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus homemade pack purple,New,--,--,¥9000,--,0,0,Purple/Footwear White,100,08/29/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nite jogger triple white (2020),New,--,--,¥18500,¥6300,0,0,Cloud White/Cloud White/Cloud White,130,06/07/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar bold clean classics white (w),New,--,--,¥23200,--,0,0,Cloud White/Cloud White/Off White,--,09/03/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nizza trefoil grey two (w),New,--,--,--,--,0,0,Grey Two/Crystal White/Core Black,65,03/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl 72 lotta volkova triple white,New,--,--,¥18600,¥3800,0,0,Cloud White/Cloud White/Cloud White,120,08/13/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas harden vol. 4 daniel patrick camo,New,¥26400,8.5,¥11500,¥11200,0,0,Signal Green/Core Black/Core White,150,09/17/2020,26400,26400,23800,29000,--,1,66.7,"26,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 2k boost legacy blue tech indigo,New,--,--,¥16400,¥8400,0,0,Blue/Legacy Blue/Tech Indigo,150,09/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl andridge her studio london (w),New,--,--,¥14300,¥4000,0,0,Cloud White/Power Berry/Gold Metallic,110,09/09/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 notoma black,New,--,--,¥32700,¥38400,0,0,Black/Black/Night Grey,400,10/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas ozweego angel chen black (w),New,--,--,¥31700,¥2600,0,0,Core Black/Green/Blue,--,05/30/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas stan smith slip-on tribe yellow,New,--,--,¥13600,--,0,0,Tribe Yellow/Tribe Yellow/Cloud White,70,05/13/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl andridge night indigo periwinkle (w),New,--,--,--,¥5000,0,0,Night Indigo/Periwinkle/Shock Pink,100,03/05/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas type 0-5 0amc black green,New,--,--,¥15500,¥20000,0,0,Core Black/Core Black/Core Black,300,09/04/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar size? city series tribute (w),New,--,--,--,--,0,0,White/Multi/White,94,06/18/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 hicho white,New,--,--,¥58500,¥10700,0,0,Core White/Core Black/White,280,07/15/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas codechaos boa nations pack japan,New,--,--,--,¥7100,0,0,Cloud White/Scarlet/Cloud White,180,05/22/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas stan smith clean classics white,New,--,--,¥9900,--,0,0,Cloud White/Off White/Green,--,09/03/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sc premiere clean classics white,New,--,--,¥25600,--,0,0,Cloud White/Off White/Green,--,09/03/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus 80s multi,New,--,--,¥14900,¥5700,0,0,Royal Blue/Cloud White/Core Black,120,08/29/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas easter human made cloud white,New,¥6400,13,¥13800,¥10500,0,0,Cloud White/Cloud White/Off White,--,09/25/2020,6400,6400,5700,7000,--,1,--,"6,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas basket profi white green pink (w),New,--,--,¥3700,--,0,0,Cloud White/Dash Green/Clear Pink,80,07/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas codechaos grey three,New,--,--,¥26400,¥5200,0,0,Grey Three/Cloud White/Core Black,150,01/31/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas supercourt clean classics white royal,New,--,--,¥17900,¥6300,0,0,Cloud White/Cloud White/Collegiate Royal,--,09/03/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas haiwee signal green (gs),New,--,--,¥12600,--,0,0,Cloud White/Signal Green/Core Black,65,03/26/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas u path run triple core black (gs),New,--,--,¥11500,¥4200,0,0,Core Black/Core Black/Core Black,65,03/26/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas response tr stmt shoe stories clear brown,New,--,--,¥26400,--,0,0,Clear Brown/Cloud White/Silver Metallic,110,08/21/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas carerra low pride (2020),New,--,--,¥9600,--,0,0,Footwear White/Footwear White/Bright Cyan,80,05/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar jd sports paris,New,--,--,¥15000,--,0,0,Core Black/Gold Metallic/Core Black,--,08/29/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas intimidation collegiate navy wonder glow,New,--,--,¥19100,¥12000,0,0,Cloud White/Collegiate Navy/Wonder Glow,--,09/10/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar boot winterized pale nude (w),New,--,--,¥21100,¥4200,0,0,Pale Nude/Pale Nude/Linen,120,09/22/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas terrex two ultra parley signal pink,New,--,--,¥27100,¥10500,0,0,Signal Pink/Core Black/Light Flash Orange,180,09/06/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas x_plr shock cyan,New,--,--,¥7400,¥7300,0,0,Shock Cyan/Core Black/Cloud White,85,01/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas harden vol. 4 su casa pack suns,New,--,--,¥14700,¥5700,0,0,Collegiate Purple/Orange/Grey Three,130,04/08/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tyshawn cloud white blue,New,--,--,¥16700,--,0,0,Cloud White/Blue/Gold Metallic,85,05/20/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas samba jonah hill green,New,--,--,¥8500,¥6700,0,0,Green/Green/Green,110,09/16/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw bed jw ford grey,New,--,--,¥6200,¥4700,0,0,Dash Grey/Dash Grey/Dove Grey,200,02/29/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar black suede white,New,--,--,¥8500,¥4200,0,0,Core Black/Core Black/Gold Metallic,80,04/02/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 2k boost white pink blue (w),New,--,--,¥19900,--,0,0,Cloud White/Cloud White/Shock Pink,150,09/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas x9000l4 crystal white silver metallic (w),New,--,--,¥26400,¥2600,0,0,Crystal White/Silver Metallic/Core Black,150,09/20/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas haiwee core black (gs),New,--,--,¥11000,--,0,0,Core Black/Grey Six/Cloud White,65,03/26/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 notoma trace khaki,New,--,--,¥36900,¥15000,0,0,Trace Khaki/Trace Khaki/Fox Orange,400,10/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas haiwee signal green (ps),New,--,--,¥10500,--,0,0,Cloud White/Signal Green/Core Black,55,03/26/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar velcro white red,New,--,--,--,¥10500,0,0,Cloud White/Scarlet/Core Black,--,08/06/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas u path x signal green (gs),New,--,--,¥14200,--,0,0,Cloud White/Core Black/Signal Green,65,03/26/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl andridge black white (w),New,--,--,¥5800,--,0,0,Core Black/Cloud White/Core Black,100,03/05/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tyshawn triple white,New,¥8100,10.5,¥12700,--,0,0,Cloud White/Cloud White/Cloud White,85,08/01/2020,8100,8100,7300,8900,--,1,-10.3,"8,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas type 0-5 0amc core black,New,--,--,¥36900,--,0,0,Core Black/Legacy Blue/Legend Ink,300,08/07/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas y-3 yunu black cloud white,New,--,--,¥60700,¥11500,0,0,Black/Cloud White/Black,285,04/07/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas pro model 2g purple tint,New,--,--,¥11600,¥6300,0,0,Purple Tint/Purple Tint/Purple Tint,100,04/10/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas crazy byw sankuanz,New,--,--,¥18600,¥11500,0,0,Footwear White/Silver Metallic/Gum 3,--,05/23/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas response cl white green black,New,¥10600,9,¥15900,¥6300,0,0,White/Green/Black,120,09/05/2020,10600,10600,9500,11600,--,1,-16.7,"10,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas stan smith translucent signal coral (w),New,--,--,¥27300,--,0,0,Signal Coral/Cloud White/Off White,100,09/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar bold black white (w),New,--,--,¥22200,--,0,0,Core Black/Cloud White/Gold Metallic,110,02/13/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx torsion ninja triple grey (gs),New,¥12700,6Y,¥12400,--,-3700,-23,Grey Two/Grey Four/Grey Five,120,10/14/2020,16500,12700,10900,14500,14.1,3,--,"14,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adilette clog black silver,New,¥9400,12,¥8000,¥9400,+3600,62,Core Black/Silver Metallic/Core Black,45,10/04/2020,9400,5800,7600,11200,19.1,2,97.8,"7,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 7 i am my own fan glory purple,New,¥12200,10.5,¥14800,¥2600,-500,-4,Glory Purple/Cloud White/Glory Purple,110,10/12/2020,12700,12200,12000,12400,2.0,3,4.5,"12,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 7 i am my own fan cloud white,New,¥12100,11,¥9000,¥7000,+3000,33,Cloud White/Silver Metallic/Core Black,110,10/09/2020,12100,9000,10600,13400,11.7,4,3.3,"10,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 7 i am my own fan solar green,New,¥14900,12.5,¥10500,¥5700,-7300,-33,Solar Green/Cloud White/Solar Green,110,10/09/2020,22200,14900,11200,18500,24.7,2,27.8,"18,500"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 7 i am my own fan core black,New,¥12600,11.5,¥9400,¥6300,+3100,32,Core Black/Silver Metallic/Core Black,110,10/09/2020,12600,9000,11400,13800,9.5,6,8.1,"10,000"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas adilette clog white black,New,¥9000,13,¥6900,¥4200,+2700,42,Cloud White/Core Black/Cloud White,45,10/04/2020,9600,6400,7700,10300,13.7,4,88.9,"8,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas fyw secant hyper pop,New,--,--,¥27200,¥8400,0,0,Hyper Pop/Hyper Pop/Dash Grey,140,10/16/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nite jogger ninja core black (gs),New,--,--,¥18800,--,0,0,Core Black/Grey Five/Blue Glow,120,10/14/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nizza hi jelly signal green (w),New,--,--,¥20700,--,0,0,Signal Green/Cloud White/Core Black,120,09/02/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nite jogger ninja core black,New,--,--,¥13800,¥5200,0,0,Core Black/Grey Five/Blue Glow,150,10/14/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rod laver reptile white navy,New,--,--,¥21000,¥11800,0,0,Core White/Core White/Collegiate Navy,140,10/16/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas fyw secant semi frozen yellow,New,--,--,¥27200,¥8400,0,0,Semi Frozen Yellow/Clear Onix/Light Blue,140,10/16/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tischtennis black white,New,--,--,--,--,0,0,Core Black/Cloud White/Green,90,10/06/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 7 i am my own fan solar red,New,¥9400,10.5,¥8400,¥5700,0,0,Solar Red/Cloud White/Solar Red,110,10/09/2020,9400,9400,8500,10400,--,1,-19.1,"9,400"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rod laver cracked white navy,New,--,--,¥18500,¥12600,0,0,Core White/Core White/Collegiate Navy,140,10/16/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas tischtennis white green gum,New,--,--,¥23900,--,0,0,Cloud White/None/Gum,90,10/06/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar bold k-pop cloud white (w),New,--,--,¥15200,--,0,0,Cloud White/Orange/Bold Pink,110,09/01/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas nite jogger ninja amber tint,New,--,--,¥13800,¥8400,0,0,Amber Tint/Orange/Trace Royal,150,10/14/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas sl20.2 invincible unstoppable,New,--,--,¥21000,¥3100,0,0,Coyote Brown/Coyote Brown/Coyote Brown,145,10/09/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx torsion ninja glory purple (gs),New,--,--,¥23200,--,0,0,Grey Five/Cloud White/Glory Purple,120,10/14/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rod laver aniline white navy,New,¥22700,11,¥18000,¥12600,0,0,Core White/Core White/Collegiate Navy,140,10/16/2020,22700,22700,20500,25000,--,1,53.6,"22,700"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas rod laver ostrich white navy,New,--,--,¥22500,¥12200,0,0,Core White/Core White/Collegiate Navy,140,10/16/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas dame 7 i am my own fan collegiate navy,New,¥8500,9,¥9500,¥7500,-100,-1,Collegiate Navy/Silver Metallic/Collegiate Navy,110,10/09/2020,8600,8500,8500,8600,0.6,2,-27.3,"8,600"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas munchen royal blue cloud white,New,¥15900,8.5,¥15000,¥8400,0,0,Royal Blue/Cloud White/Gum,110,10/12/2020,15900,15900,14300,17400,--,1,36.4,"15,900"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar craig green,New,--,--,¥37500,¥41100,0,0,Utility Black/Core White/Orange,300,10/07/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 2k 4d grey four solar orange,New,--,--,¥52600,¥9400,0,0,Grey Four/Core Black/Solar Orange,200,10/21/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas campus homemade pack purple (td),New,--,--,--,--,0,0,Purple/Footwear White,55,08/29/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas gazelle vintage black white (billy's),New,--,--,--,--,0,0,Core Black/Footwear White/Gold Metallic,120,09/23/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas supergrip off white black,New,--,--,¥20100,¥5200,0,0,Off White/Chalk White/Core Black,130,10/12/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 2k boost white solar red blue (gs),New,--,--,¥21100,--,0,0,Cloud White/Solar Red/Blue,120,10/10/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas zx 2k boost white solar red blue,New,--,--,¥14800,--,0,0,Cloud White/Solar Red/Blue,150,10/10/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar melting sadness bunny,New,¥56200,8.5,¥41000,¥36800,+7200,15,Blue/Pink/Blue,--,10/17/2020,63200,49100,50400,62000,10.3,3,--,"56,100"
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar melting sadness hot dog,New,--,--,--,¥18400,0,0,Yellow/Orange/Yellow,--,10/17/2020,--,--,--,--,--,--,--,--
+adidas-yeezy-boost-350-v2-multi-color-f-f,adidas,adidas superstar atmos crazy animal,New,--,--,¥16900,¥15800,0,0,Core Black/Off White/Orange,132,10/03/2020,--,--,--,--,--,--,--,--
