@@ -1,0 +1,42 @@
+body {
+    padding: 60px 0;
+    background: #ffffff;
+  }  
+
+.error {
+    color: red;
+    font-size: .8em;
+    }
+
+.jumbotron {
+    background: url('../../../static/images/backimage.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+    }
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    }
+    
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+    } 
+
+.publicsneaker {
+    font-size: 20px;
+    color: black;
+    margin-bottom:40px;
+    height:30px;
+    }
+
+.publicsneakertitile h3 {
+    font-weight: bold;
+}
+
+.results-sneaker h3 {
+    color: rgb(51, 255, 0);
+}

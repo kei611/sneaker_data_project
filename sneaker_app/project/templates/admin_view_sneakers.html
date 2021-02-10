@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="admin-view-users">
+  <div class="page-header">
+    <h2>Administrative Page: List of Sneakers<h2>
+  </div>
+
+  <div class="row">
+    <table class="table table-striped" id="admin_list_of_sneakers">
+      <thead>
+        <tr>
+          <th>Sneaker ID</th>
+          <th>Sneaker Name</th>
+          <th>Retail Price</th>
+          <th>Public?</th>
+          <th>Image Filename</th>
+          </tr>
+      </thead>
+      <tbody>
+        {% for sneaker in sneakers %}
+          <tr>
+            <td> {{ sneaker.id }} </td>
+            <td> {{ sneaker.sneaker_model_name }} </td>
+            <td> {{ sneaker.sneaker_retail_price }} </td>
+            <td> {{ sneaker.is_public }} </td>
+            <td> {{ sneaker.image_filename }} </td>
+            <td>
+              <a href="{{ url_for('sneakers.admin_delete_sneaker', sneaker_id = sneaker.id) }}">Delete</a>
+              <a href="{{ url_for('sneakers.admin_edit_sneaker', sneaker_id = sneaker.id) }}">Edit</a>
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+{% endblock %}

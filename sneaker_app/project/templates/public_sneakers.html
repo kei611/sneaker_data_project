@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block content %}
+
+
+<div class="user-profile">
+  <div class="container">
+    <div class="jumbotron">
+      <h1>Sneaker Shelf</h1>
+      <p>Our Fav Dope Shit!</p>
+    </div>
+
+    {% if public_sneakers.count() > 0 %}
+      <div class="publicsneakertitile">
+      <h3>Public Sneakers</h3>
+      </div>
+      <div class="row">
+        {% for sneaker in public_sneakers %}
+        <div class="col-xs-6 col-md-3">
+          <tr>
+            <div class="publicsneaker">
+            <td>{{ sneaker.sneaker_model_name }}</td>
+            </div>
+
+            <a href="{{ url_for('sneakers.sneaker_details', sneaker_id=sneaker.id) }}" class="thumbnail">
+              <img src="{{ sneaker.image_url }}" alt="{{ sneaker.image_filename }}" style="margin-top:10px;margin-bottom:10px">
+            </a>
+          </tr>
+        </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div> <!-- /container -->
+</div>
+
+ 
+{% endblock %}

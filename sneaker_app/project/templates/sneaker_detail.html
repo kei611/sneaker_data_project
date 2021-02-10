@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block content %}
+ 
+<div class="user-profile">
+  <div class="page-header">
+    <h2>{{ sneaker.sneaker_model_name }}</h2>
+    <h5>
+        {% if sneaker.user_id == current_user.id %}
+          <a href="{{ url_for('sneakers.edit_sneaker', sneaker_id=sneaker.id) }}">Edit</a>
+          |
+          <a href="{{ url_for('sneakers.delete_sneaker', sneaker_id=sneaker.id) }}">Delete</a>
+        {% endif %}
+    </h5>
+  </div>
+ 
+  <div class="row">
+    <div class="col-xs-6 col-md-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">Sneaker Details</div>
+        <div class="panel-body"><b>Retail Price(JPY):</b> {{ sneaker.sneaker_retail_price }}</div>
+        <div class="panel-body"><b>Public or Private:</b>
+          {% if sneaker.is_public %}
+            Public
+          {% else %}
+            Private
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xs-6 col-md-8">
+      {% if sneaker.image_url %}
+        <img class="center-block img-responsive" src="{{ sneaker.image_url }}" alt="{{ sneaker.image_filename }}" style="width:600px;height:450px;margin-bottom:10px">
+      {% endif %}
+    </div>
+  </div>
+
+</div>
+ 
+{% endblock %}

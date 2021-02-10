@@ -1,0 +1,84 @@
+
+{% macro render_field(field) %}
+  <dt>{{ field.label }}:
+  <dd>{{ field(**kwargs)|safe }}
+    {% if field.errors %}
+      <span class="error">
+      {% for error in field.errors %}
+        {{ error }}
+      {% endfor %}
+      </span>
+    {% endif %}
+  </dd>
+{% endmacro %}
+
+
+{% macro render_field_without_label(field) %}
+  <dd>{{ field(**kwargs)|safe }}
+  {% if field.errors %}
+    <span class="error">
+    {% for error in field.errors %}
+      {{ error }}
+    {% endfor %}
+    </span>
+  {% endif %}
+  </dd>
+{% endmacro %}
+
+
+{% macro render_errors(field) %}
+  {% if field.errors %}
+    <span class="error">
+    {% for error in field.errors %}
+      {{ error }}
+    {% endfor %}
+    </span>
+  {% endif %}
+{% endmacro %}
+
+
+{% macro render_sneaker_edit_form(form, sneaker) %}
+    <div class="form-group row">
+      <legend for="sneaker_model_name" class="col-form-legend col-sm-2">Sneaker Name</legend>
+      <div class="col-sm-6">
+        <input type="text" class="form-control" id="sneaker_model_name" name="sneaker_model_name" value="{{ sneaker.sneaker_model_name }}">
+        {{ render_errors(form.sneaker_model_name) }}
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <legend for="sneaker_retail_price" class="col-form-legend col-sm-2">Retail Price(JPY)</legend>
+      <div class="col-sm-6">
+        <input type="text" class="form-control" id="sneaker_retail_price" name="sneaker_retail_price" value="{{ sneaker.sneaker_retail_price }}">
+        {{ render_errors(form.sneaker_retail_price) }}
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <legend for="sneaker_public" class="col-form-legend col-sm-2">Public Sneaker?</legend>
+      <div class="col-sm-6">
+        <div class="form-check">
+          <label class="form-check-label">
+            {% if sneaker.is_public == true %}
+              <input class="form-check-input" name="sneaker_public" id="sneaker_public" type="checkbox" checked>
+            {% else %}
+              <input class="form-check-input" name="sneaker_public" id="sneaker_public" type="checkbox">
+            {% endif %}
+            Yes
+          </label>
+          {{ render_errors(form.sneaker_public) }}
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group row">
+      <legend for="sneaker_image" class="col-form-legend col-sm-2">Sneaker Image</legend>
+      <div class="col-sm-6">
+        <label class="form-check-label">Current filename: {{ sneaker.image_filename }}</label>
+        <input type="file" class="form-control-file" name="sneaker_image" id="sneaker_image" aria-describedby="fileHelp">
+        <small id="fileHelp" class="form-text text-muted">Select an image for this sneaker.</small>
+        {{ render_errors(form.sneaker_image) }}
+      </div>
+    </div>
+
+{% endmacro %}

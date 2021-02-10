@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+ 
+# Instance Folder - used for configuration parameters
+/instance/db_create.py
+/instance/flask.cfg
+/instance/*.db
+
+# Initialization file for Postgress Docker Image
+/postgresql/Dockerfile
+
+# Coverage output
+/.coverage
+/htmlcov/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

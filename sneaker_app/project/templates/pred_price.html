@@ -1,0 +1,58 @@
+{% extends "layout.html" %}
+{% from "_form_macros.html" import render_errors, render_field_without_label %}
+
+{% block content %}
+ 
+<div class="pred-price">
+  <div class="page-header">
+    <h2>Predict Sneaker Resale Price</h2>
+  </div>
+
+  <div class="container">
+    <form action="{{ url_for('sneakers.pred_price') }}" method="post" enctype="multipart/form-data">
+      {{ form.csrf_token }}
+
+      <div class="form-group row">
+        <legend for="sneaker_brand" class="col-form-legend col-sm-3">Brand</legend>
+        <div class="col-sm-6">
+          <!-- <input type="text" class="form-control" id="sneaker_brand" name="sneaker_brand"> -->
+          {{ render_field_without_label(form.sneaker_brand) }}
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <legend for="sneaker_model_name" class="col-form-legend col-sm-3">Sneaker Name</legend>
+        <div class="col-sm-6">
+          <input type="text" class="form-control" id="sneaker_model_name" name="sneaker_model_name" placeholder="Enter sneaker name...">
+          {{ render_errors(form.sneaker_model_name) }}
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <legend for="sneaker_retail_price" class="col-form-legend col-sm-3">Retail Price</legend>
+        <div class="col-sm-6">
+          <input type="integer" class="form-control" id="sneaker_retail_price" name="sneaker_retail_price" placeholder="Enter retail price...">
+          {{ render_errors(form.sneaker_retail_price) }}
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <legend for="sneaker_image" class="col-form-legend col-sm-3">Sneaker Image</legend>
+        <div class="col-sm-6">
+          <input type="file" class="form-control-file" name="sneaker_image" id="sneaker_image" aria-describedby="fileHelp">
+          <small id="fileHelp" class="form-text text-muted">Select an image for this sneaker.</small>
+          {{ render_errors(form.sneaker_image) }}
+        </div>
+      </div>     
+
+      <div class="form-group row">
+        <div class="offset-sm-2 col-sm-10">
+          <button type="submit" class="btn btn-success">Predict</button>
+        </div>
+      </div>
+  
+  </form>
+</div>
+</div>
+ 
+{% endblock %}

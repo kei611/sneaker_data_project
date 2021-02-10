@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% from "_form_macros.html" import render_field %}
+
+{% block content %}
+ 
+
+<div class="results-sneaker">
+  <div class="page-header">
+    <h2>Predicted Resale Price</h2>
+  </div>
+  <div>
+    <h3><strong>{{ prediction }}</strong></h3>
+    (probability: {{ probability }}%)
+  </div>
+</div> 
+
+ 
+{% endblock %}
